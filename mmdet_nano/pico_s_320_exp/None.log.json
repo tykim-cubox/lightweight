@@ -1,0 +1,1 @@
+{"mode": "val", "epoch": 10, "iter": 23, "lr": 0.00038, "bbox_mAP": 0.04, "bbox_mAP_50": 0.15, "bbox_mAP_75": 0.018, "bbox_mAP_s": -1.0, "bbox_mAP_m": 0.035, "bbox_mAP_l": 0.053, "bbox_mAP_copypaste": "0.040 0.150 0.018 -1.000 0.035 0.053"}
