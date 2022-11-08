@@ -5,6 +5,8 @@
 *.pth
 *.pt
 *.zip
+*.tar.gz
+*.gz
 ### Linux ###
 *~
 
